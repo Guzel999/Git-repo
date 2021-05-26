@@ -1,6 +1,6 @@
-ptint ("Hello World")
-print ("Hello everybody")
+ptint ("Hello World;")
+print ("Hello everybody;")
 <<<<<<< HEAD
 =======
-ptint("Hello")
+ptint("Hello;")
 >>>>>>> master
