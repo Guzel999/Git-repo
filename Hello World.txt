@@ -1,2 +1,6 @@
 ptint ("Hello World")
 print ("Hello everybody")
+<<<<<<< HEAD
+=======
+ptint("Hello")
+>>>>>>> master
